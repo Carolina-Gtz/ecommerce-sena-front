@@ -6,7 +6,5 @@ export default function Home() {
       <Button variant="link">Button</Button>
     </div>
 
-
-
   );
 }
